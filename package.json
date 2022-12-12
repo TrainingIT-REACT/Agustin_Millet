@@ -47,7 +47,7 @@
     "json-server": "^0.17.1",
     "npm-run-all": "^4.1.5",
     "puppeteer": "^1.17.0",
-    "serve": "^11.0.1",
+    "serve": "^14.1.2",
     "style-loader": "^0.23.1",
     "webpack": "^4.32.2",
     "webpack-cli": "^3.3.12",
